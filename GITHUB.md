@@ -1,1 +1,4 @@
-I AM ON GITHUB
+GitHub Editor
+=============
+
+This file was created on github.com.
