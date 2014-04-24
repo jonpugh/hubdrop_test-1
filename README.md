@@ -28,3 +28,6 @@ hubdrop@hubdrop:~$
 Use `hubdrop source hubdrop_test drupal` to switch it back.
 
 The direction indicator will change at http://hubdrop.io/project/hubdrop_test.
+
+More coming soon
+================
