@@ -7,6 +7,8 @@ This is a repo created for testing HubDrop.org.
 
 This is the first HubDrop repo that is being mirrored *back* to drupal.org.
 
+When commits are made to https://github.com/drupalprojects/hubdrop_test, if the webhook is working, and jenkins is running, hubdrop server will git pull from github and git push to drupal.org.
+
 Switching Directions
 ====================
 
