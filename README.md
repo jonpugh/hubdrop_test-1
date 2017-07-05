@@ -34,4 +34,3 @@ Setting up WebHook
 ==================
 To connect your repo to github so that it pushes immediately, setup the webhook url https://www.hubdrop.org/webhook
 
-
